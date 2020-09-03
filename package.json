@@ -1,0 +1,31 @@
+{
+  "name": "blog1",
+  "version": "1.0.0",
+  "description": "blogcuatao",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "https://github.com/Hoangcunut/blogcunut.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoangcunut/blogcunut.git"
+  },
+  "keywords": [
+    "blog",
+    "js",
+    "nodejs"
+  ],
+  "author": "hoangcunut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoangcunut/blogcunut/issues"
+  },
+  "homepage": "https://github.com/Hoangcunut/blogcunut#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
